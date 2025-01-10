@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Lucidity IT Solutions"
+  content: "Technology Made Simple, Results Made Clear"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Contact Us"
+    link: "mailto:support@lucidityits.com"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Our Services"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Lucidity IT Solutions provides comprehensive technology solutions in the Pacific Northwest."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Helpdesk & Technical Support"
+      - "Proactive Network Monitoring"
+      - "IT Infrastructure Management, Planning, & Design"
+      - "Device & Endpoint Management"
+      - "Cloud Storage & Backup Solutions"
+      - "Network Security & Firewall Management"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Do you need cameras, a phone system, or a wireless network upgrade?"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Lucidity IT Solutions collaborates with various vendors to offer you upgrades to your systems with the latest state-of-the-art equipment."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Security cameras and video door access systems"
+      - "Wireless network expansions and upgrades"
+      - "VOIP phone system upgrades"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "The Top Reasons to Choose Lucidity IT Solutions as your IT Provider"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "We’ll be the only IT company you'll ever need."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Expertise and Experience"
+      - "Access to Latest Technology"
+      - "One-stop-shop"
+      - "100% satisfaction guarantee"
     button:
       enable: false
       label: ""
