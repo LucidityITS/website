@@ -28,9 +28,9 @@
   },
 
   "navigation_button": {
-    "enable": false,
-    "label": "Get Started",
-    "link": "https://www.lucidityits.com"
+    "enable": true,
+    "label": "Call us: (360) 360-1942",
+    "link": "tel:360-360-1942"
   },
 
   "disqus": {
