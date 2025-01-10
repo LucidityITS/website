@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "Lucidity IT Solutions: Your partner for clear and effective IT solutions."
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: ""
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Contact Us Now"
+  link: "mailto:support@lucidityits.com"
 ---
