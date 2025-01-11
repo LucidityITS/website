@@ -42,16 +42,12 @@ We may use cookies and similar tracking technologies to enhance your experience 
 
 We take reasonable measures to protect the security of your information, including implementing appropriate technical and organizational safeguards. However, no method of transmission over the internet or method of electronic storage is completely secure.
 
-##### Children's Privacy   
-
-Our website and services are not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.   
-
 ##### Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated policy on our website.   
 
 ##### Contact Us
 
-If you have any questions about this Privacy Policy or our data practices, please contact us at (360) 360-1942.   
+If you have any questions about this Privacy Policy or our data practices, please contact us at support@lucidityits.com.
 
 This Privacy Policy was last updated on January 10, 2025.

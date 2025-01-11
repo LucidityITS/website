@@ -5,7 +5,7 @@ description: "this is meta description"
 bulletpoints:
 ---
 
-Core Services:
+###### Core Services:
 
 - IT Support & Help Desk
 - On-site and remote support
@@ -13,26 +13,26 @@ Core Services:
 - User support and training
 - Help desk ticketing system
 
-Network Services:
+###### Network Services:
 
 - Network design, installation, and maintenance
 - Wi-Fi setup and optimization
 - Network security (firewalls, intrusion detection)
 - VPN setup and management
 
-Email Services:
+###### Email Services:
 
 - Microsoft 365 and Google Workspace licensing 
 - Email provider migrations
 - Email backup and recovery
 
-Cloud Computing:
+###### Cloud Computing:
 
 - Cloud migration and implementation
 - Cloud security and compliance
 - Cloud backup and recovery
 
-Cybersecurity:
+###### Cybersecurity:
 
 - Threat assessment and risk management
 - Antivirus and anti-malware protection
@@ -40,19 +40,19 @@ Cybersecurity:
 - Phishing and spam protection
 - Disaster recovery planning
 
-IT Consulting:
+###### IT Consulting:
 - Strategic IT planning
 - Technology assessments and audits
 - IT budget planning and forecasting
 - Vendor management
 
-Data Center Management:
+###### Data Center Management:
 
 - Server management and maintenance
 - Server monitoring and optimization
 - Virtualization and cloud migration
 
-Business Continuity & Disaster Recovery:
+###### Business Continuity & Disaster Recovery:
 
 - Business impact analysis
 - Disaster recovery planning and testing
