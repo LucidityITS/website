@@ -26,9 +26,9 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Could your business benefit from upgraded IT equipment?"
+  - title: "Is it time to upgrade your IT equipment?"
     image: "/images/service-2.png"
-    content: "Lucidity IT Solutions collaborates with various vendors to offer you upgrades to your systems with the latest state-of-the-art equipment."
+    content: "Lucidity IT Solutions partners with various vendors to offer you upgrades to your systems with the latest state-of-the-art equipment."
     bulletpoints:
       - "Security cameras and video door access systems"
       - "VOIP phone systems"
@@ -36,7 +36,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: ""
 
   - title: "The Top Reasons to Choose Lucidity IT Solutions as your IT Provider"
     image: "/images/service-3.png"
