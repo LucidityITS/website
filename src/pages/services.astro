@@ -5,9 +5,9 @@ import { markdownify } from "@/lib/utils/textConverter";
 import type { CollectionEntry } from "astro:content";
 import { getEntry, render } from "astro:content";
 
-const contact = (await getEntry("contact", "-index")) as CollectionEntry<"contact">;
-const { Content } = await render(contact);
-const { title, description, meta_title, image } = contact.data;
+const blog = (await getEntry("blog", "-index")) as CollectionEntry<"blog">;
+const { Content } = await render(blog);
+const { title, description, meta_title, image } = blog.data;
 ---
 
 <Base

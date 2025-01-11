@@ -26,13 +26,13 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Do you need cameras, a phone system, or a wireless network upgrade?"
+  - title: "Could your business benefit from upgraded IT equipment?"
     image: "/images/service-2.png"
     content: "Lucidity IT Solutions collaborates with various vendors to offer you upgrades to your systems with the latest state-of-the-art equipment."
     bulletpoints:
       - "Security cameras and video door access systems"
-      - "Wireless network expansions and upgrades"
-      - "VOIP phone system upgrades"
+      - "VOIP phone systems"
+      - "Networking equipment and wireless access points"
     button:
       enable: false
       label: "Get Started Now"

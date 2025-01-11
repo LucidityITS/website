@@ -5,39 +5,19 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "About Us",
       "url": "/about"
     },
-    
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
+      "name": "Contact",
+      "url": "/contact"
+    },    
+    {
+      "name": "Services",
+      "url": "/services",
+      "hasChildren": false
+	  ,
       "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
       ]
     }
   ],
